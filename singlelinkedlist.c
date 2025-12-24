@@ -80,3 +80,4 @@ int main() {
         }
     }
 }
+//this is code for singlrlinked list
